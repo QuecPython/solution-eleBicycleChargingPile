@@ -1,6 +1,8 @@
 
 # 充电桩管理系统
 
+中文 | [English](./README.MD)
+
 ## 简介
 
 本项目实现了一个充电桩管理系统，包含了 OTA 升级、设备应用管理、外部电表数据处理等功能。通过这些功能，系统能够处理 OTA 升级、设备管理、数据传输等任务，确保充电桩系统的正常运行。
@@ -136,7 +138,13 @@ print("MCU VERSION = {}".format(MCU_VERSION))
 
 ## 贡献
 
-欢迎提交 issue 和 pull request 来帮助我们改进项目。
+我们欢迎对本项目的改进做出贡献！请按照以下步骤进行贡献：
+
+1. Fork 此仓库。
+2. 创建一个新分支（`git checkout -b feature/your-feature`）。
+3. 提交您的更改（`git commit -m 'Add your feature'`）。
+4. 推送到分支（`git push origin feature/your-feature`）。
+5. 打开一个 Pull Request。
 
 ## 许可证
 

@@ -1,5 +1,7 @@
 # Charging Pile Management System
 
+[中文](./README_ZH.MD) | English
+
 ## Introduction
 
 This project implements a charging pile management system, including OTA upgrades, device application management, external meter data processing, and other functions. Through these features, the system can handle OTA upgrades, device management, data transmission, and other tasks to ensure the normal operation of the charging pile system.
@@ -135,7 +137,13 @@ The `main.py` file is the main program, including the initialization and startup
 
 ## Contribution
 
-We welcome issues and pull requests to help us improve the project.
+We welcome contributions to improve this project! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
 
 ## License
 
