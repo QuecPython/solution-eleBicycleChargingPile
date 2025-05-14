@@ -1,7 +1,7 @@
 
 # 充电桩管理系统
 
-中文 | [English](./README.MD)
+中文 | [English](README.md)
 
 ## 简介
 
