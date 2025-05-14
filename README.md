@@ -1,6 +1,6 @@
 # Charging Pile Management System
 
-[中文](./README_ZH.MD) | English
+[中文](README.zh.md) | English
 
 ## Introduction
 
